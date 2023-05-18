@@ -1,5 +1,5 @@
 
-DEMO - LINK => typing-app-three.vercel.app
+DEMO - LINK => https://typing-app-three.vercel.app/
 
 
 To run this code im your local follow thease step
